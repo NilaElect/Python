@@ -1,2 +1,2 @@
 # Python
-TPython tutorials and projects.
+Python tutorials and projects.
